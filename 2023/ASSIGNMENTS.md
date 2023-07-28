@@ -1,27 +1,23 @@
 # Assignments
 
-## Phase one
+## Tasks One
 
-- Fork this repository
+## Tasks Two
 
-- Clone the forked repository
+1. Head over to [Learn Git Branching](https://learngitbranching.js.org/?NODEMO) website
 
-- Create a branch of `<your_name>`
+2. Try to create the following image with the help of command that we have learned in Git Workshop
 
-- Switch to that branch
+   ![Assignment Two](./resources/assignment_two.png)
 
-## Phase two
+## Submission
 
-- Create a folder with `<your_name>` inside [`2023/`](../2023/) folder.
+1. Take the screenshot of what you have done in [Learn Git Branching](https://learngitbranching.js.org/?NODEMO) website.
 
-- Create a file with name `README.md`
+2. Put the screenshot inside e`2023/<your_name>` you have created.
 
-- Add the command you have learned
+3. Run `git add` and `git commit` command.
 
-- Add and commit the file with proper commit message.
+4. Push to the remote repository.
 
-## Phase Three
-
-- Push the commit to the your remote repository.
-
-- Open pull request.
+5. Open another pull request from .
