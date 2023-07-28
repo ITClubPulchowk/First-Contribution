@@ -18,7 +18,16 @@
 
 ## <p align='center'>Mentor</p>
 
-<p align='center'>Coming soon</p>
+
+<p align='center'>
+    <img
+        align="center"
+        src="./resources/mentors.png"
+        alt="Git Workshop 2023 Instructors"
+        height="350"
+        width=""
+    >
+</p>
 
 ---
 
