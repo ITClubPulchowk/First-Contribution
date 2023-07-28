@@ -26,8 +26,7 @@
 
 ## <p align='center'>Repository View</p>
 
-<video  align='center' src="./resources/repositoryFullView.mp4" controls >
-</video>
+https://github.com/ITClubPulchowk/First-Contribution/assets/83917129/ea15e7ac-d481-4236-9a5a-ab0e4129d3a8
 
 ---
 
