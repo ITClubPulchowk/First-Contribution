@@ -3,38 +3,38 @@
 ### <p align='center'>`<your_name>`</p>
 
 <p align="center">
-    <a href="#" target="blank"
+    <a href="https://www.facebook.com/R.Pandey198/" target="blank"
     ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
         alt="your_name"
         height="24"
         width="32"
-    />https://www.facebook.com/R.Pandey198/</a>
-    <a href="#" target="blank"
+    /></a>
+    <a href="https://www.linkedin.com/in/rpandox/" target="blank"
     ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
         alt="your_name"
         height="24"
         width="32"
-    />https://www.linkedin.com/in/rpandox/</a>
-    <a href="#" target="blank"
+    /></a>
+    <a href="https://github.com/rpandox" target="blank"
     ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
         alt="your_name"
         height="24"
         width="32"
-    />https://github.com/rpandox</a>
-       <a href="#" target="blank"
+    /></a>
+       <a href="https://www.instagram.com/roshan_pandey097/" target="blank"
     ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
         alt="your_name"
         height="24"
         width="32"
-    />https://www.instagram.com/roshan_pandey097/</a>
+    /></a>
 
 </p>
 
