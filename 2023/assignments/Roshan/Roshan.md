@@ -139,14 +139,15 @@
         $ git help
         $ git help remote
 
-10.  `git remote`
+10.   `git remote`
+	
+ 	
+  **Description** :
+     
+    The git remote command lets you create, view, and delete connections to other repositories.
 
-    **Description** :
-
-        The git remote command lets you create, view, and delete connections to other repositories.
-
-
-    **Examples**:
+			
+   **Examples**:
 
         $ git remote add dev1 https://github.com/rpandox/First-Contribution.git
         $ git remote rename dev1 developer1
@@ -154,49 +155,54 @@
 
 11.  `git push`
 
-    **Description** :
 
-        It is used to upload local repository content to a remote repository
+**Description**:
 
-    **Examples**:
+    It is used to upload local repository content to a remote repository
+
+     
+**Examples**:
 
         $ git push developer1 main
 
 12.  `git fetch`
 
-    **Description** :
+**Description** :
 
-    It is used to download commits, files, and refs from a remote repository into your local repo. 
-
-    **Examples**:
+    It is used to download commits, files, and refs from a remote repository into your local repo.
+**Examples**:
 
         $ git fetch https://github.com/rpandox/First-Contribution.git
 
 13. `git pull`
-    **Description** :
+
+
+  **Description** :
 
     It is used to fetch and download content from a remote repository and immediately update the local repository to match that content.
 
-    **Examples**:
+    
+  **Examples**:
 
         $ git pull https://github.com/rpandox/First-Contribution.git
 
 14. `git clone`
-    **Description** :
+
+**Description** :
 
     It is used to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location.
 
-    **Examples**:
+**Examples**:
 
         $ git clone https://github.com/rpandox/First-Contribution.git
 
 15.  `git branch`
 
-    **Description** :
+***Description** :
 
         It is used to create rename switch publish delete a branch
 
-    **Examples**:
+**Examples**:
 
         $ git branch new-branch
         $ git branch -m old_branch_name new_branch_name
@@ -205,34 +211,21 @@
 
 16.  `git merge `
 
-    **Description** :
+**Description** :
 
         It is used to combine two branches
 
-    **Examples**:
+**Examples**:
 
         $ git merge another_branch
 
 17.  `git rebase`
 
-    **Description** :
+**Description** :
 
         It is used to changing the base of your branch from one commit to another making it appear as if you'd created your branch from a different commit
 
-    **Examples**:
+**Examples**:
 
         $ git rebase branch_name
-
-
-
-
-
-
-
-
-
-
-
-
-
 
