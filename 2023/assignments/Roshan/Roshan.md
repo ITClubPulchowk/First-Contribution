@@ -1,13 +1,13 @@
 # <p align='center'>Git Workshop 2023 <p>
 
-### <p align='center'>`Roshan Pandey`</p>
+### <p align='center'>Roshan Pandey</p>
 
 <p align="center">
     <a href="https://www.facebook.com/R.Pandey198/" target="blank"
     ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-        alt="your_name"
+        alt="Roshan Pandey"
         height="24"
         width="32"
     /></a>
@@ -15,7 +15,7 @@
     ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="your_name"
+        alt="Roshan Pandey"
         height="24"
         width="32"
     /></a>
@@ -23,7 +23,7 @@
     ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-        alt="your_name"
+        alt="Roshan Pandey"
         height="24"
         width="32"
     /></a>
@@ -31,7 +31,7 @@
     ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-        alt="your_name"
+        alt="Roshan Pandey"
         height="24"
         width="32"
     /></a>
@@ -220,13 +220,13 @@
 
         $ git merge another_branch
 
-17.  `git rebase`
+17. `git rebase`
 
-**Description** :
+    **Description** :
 
         It is used to changing the base of your branch from one commit to another making it appear as if you'd created your branch from a different commit
 
-**Examples**:
+    **Examples**:
 
         $ git rebase branch_name
 
