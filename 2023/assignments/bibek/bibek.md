@@ -1,6 +1,6 @@
 # <p align='center'>Git Workshop 2023 <p>
 
-### <p align='center'>`Bibek Dhungana`</p>
+### <p align='center'>Bibek Dhungana</p>
 
 <p align="center">
     <a href="https://www.facebook.com/dhunganapiyush" target="blank"
