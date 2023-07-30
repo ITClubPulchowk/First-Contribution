@@ -1,37 +1,37 @@
 # <p align='center'>Git Workshop 2023 <p>
 
-### <p align='center'>`<your_name>`</p>
+### <p align='center'>`Bibek Dhungana`</p>
 
 <p align="center">
-    <a href="#" target="blank"
+    <a href="https://www.facebook.com/dhunganapiyush" target="blank"
     ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-        alt="your_name"
+        alt="विवेक ढुङ्गाना"
         height="24"
         width="32"
     /></a>
-    <a href="#" target="blank"
+    <a href="https://www.linkedin.com/in/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A5%87%E0%A4%95-%E0%A4%A2%E0%A5%81%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A4%BE%E0%A4%A8%E0%A4%BE-48900a245/" target="blank"
     ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="your_name"
+        alt="Bibek Dhungana"
         height="24"
         width="32"
     /></a>
-    <a href="#" target="blank"
+    <a href="https://github.com/th3-roGue-deV1l" target="blank"
     ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-        alt="your_name"
+        alt="th3-roGue-deV1l"
         height="24"
         width="32"
     /></a>
-       <a href="#" target="blank"
+       <a href="https://www.instagram.com/_bibek_dhungana_/" target="blank"
     ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-        alt="your_name"
+        alt="_bibek_dhungana_"
         height="24"
         width="32"
     /></a>
@@ -62,7 +62,7 @@
 
         $ git add .gitignore hangman.c
 
-3. `git config --global.user.name "[firstname lastname]"
+3. `git config --global user.name "[firstname lastname]"
 
 	**Description**:
 
@@ -71,7 +71,7 @@
 	**Examples**:
 
 		
-		$ git config --global.user.name "Bibek Dhungana"
+		$ git config --global user.name "Bibek Dhungana"
 
 4. `git config --list`
 
