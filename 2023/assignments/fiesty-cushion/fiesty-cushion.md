@@ -11,10 +11,10 @@
         height="24"
         width="32"
     /></a>
-    <a href="#" target="blank"
+    <a href="https://twitter.com/Fiesty_Cushion" target="blank"
     ><img
         align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
         alt="your_name"
         height="24"
         width="32"
@@ -23,14 +23,6 @@
     ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-        alt="your_name"
-        height="24"
-        width="32"
-    /></a>
-       <a href="#" target="blank"
-    ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
         alt="your_name"
         height="24"
         width="32"
