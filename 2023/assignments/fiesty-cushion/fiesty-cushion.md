@@ -1,6 +1,6 @@
 # <p align='center'>Git Workshop 2023 <p>
 
-### <p align='center'>`Braj Neupane`</p>
+### <p align='center'>Braj Neupane</p>
 
 <p align="center">
     <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"
@@ -56,7 +56,7 @@
 
     **Description** :
 
-        Copies an existing repository from a remote source (GitHub) to your local machine.
+        Copies an existing repository from a remote source (eg. GitHub) to your local machine.
 
     **Examples**:
 
@@ -120,7 +120,7 @@
 
     **Examples**:
 
-        $ git log || git log -<n> || git log --oneline
+        $ git log
 
 9.  `git merge <branch>`
 
@@ -141,11 +141,3 @@
      **Examples**:
 
          $ git diff
-
-
-
-
-
-
-
-
