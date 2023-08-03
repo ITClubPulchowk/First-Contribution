@@ -27,7 +27,7 @@
         height="24"
         width="32"
     /></a>
-       <a href="#" target="blank"
+       
     ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
