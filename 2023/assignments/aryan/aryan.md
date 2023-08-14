@@ -172,7 +172,7 @@
 
         $ git switch hanging_man
 
-15. `git `push <remote-name> <branch_name>
+15. `git push <remote-name> <branch_name>`
 
     **Description** :
 
