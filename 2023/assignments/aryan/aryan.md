@@ -27,14 +27,6 @@
         height="24"
         width="32"
     /></a>
-       
-    ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-        alt="your_name"
-        height="24"
-        width="32"
-    /></a>
 
 </p>
 
@@ -129,8 +121,8 @@
     **Examples**:
 
         $ git push origin main
-
-10.  `git pull <alias> <branch>`
+        
+10. `git pull <alias> <branch>`
 
     **Description** :
 
@@ -140,7 +132,7 @@
 
         $ git pull origin main
 
-11.  `git clone <remote-url>`
+11. `git clone <remote-url>`
 
     **Description** :
 
@@ -150,7 +142,7 @@
 
         $ git clone git@github.com:Silawalaryan/First-Contribution.git
 
-12.  `git branch <branch_name>`
+12. `git branch <branch_name>`
 
     **Description** :
 
@@ -160,7 +152,7 @@
 
         $ git branch hanging_person
 
-13.  `git branch -m <old_branch_name> <new_branch_name>`
+13. `git branch -m <old_branch_name> <new_branch_name>`
 
     **Description** :
 
@@ -170,7 +162,7 @@
 
         $ git branch -m hanging_person hanging_man
 
-14.  `git switch <branch_name>`
+14. `git switch <branch_name>`
 
     **Description** :
 
@@ -180,7 +172,7 @@
 
         $ git switch hanging_man
 
-15.  `git `push <remote-name> <branch_name>
+15. `git `push <remote-name> <branch_name>
 
     **Description** :
 
@@ -190,7 +182,7 @@
 
         $ git push origin hanging_man
 
-16.  `git branch -d <branch_name>`
+16. `git branch -d <branch_name>`
 
     **Description** :
 
@@ -200,7 +192,7 @@
 
         $ git branch -d hanging_man
 
-17.  `git merge <branch_name>`
+17. `git merge <branch_name>`
 
     **Description** :
 
